@@ -1,0 +1,18 @@
+mmtr-flight-automation/
+├─ pom.xml
+├─ src/
+│  ├─ main/
+│  │  ├─ java/
+│  │  │  └─ com/example/pages/
+│  │  │     ├─ BasePage.java
+│  │  │     ├─ HomePage.java
+│  │  │     ├─ FlightsPage.java
+│  │  │     ├─ ResultsPage.java
+│  │  │     └─ models/Flight.java
+│  │  └─ resources/
+│  └─ test/
+│     ├─ java/
+│     │  └─ com/example/tests/
+│     │     └─ FlightSearchTest.java
+│     └─ resources/
+└─ testng.xml
