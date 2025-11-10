@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="MakeMyTripSuite" verbose="1" >
+  <test name="FlightSearchTest">
+    <classes>
+      <class name="com.example.tests.FlightSearchTest"/>
+    </classes>
+  </test>
+</suite>
